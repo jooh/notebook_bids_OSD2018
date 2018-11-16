@@ -2,3 +2,5 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable execute_time/ExecuteTime
 jupyter nbextension enable scroll_down/main
 jupyter nbextension enable splitcell/splitcell
+npm install bids-validator
+export PATH="$HOME/node_modules/bids-validator/bin:$PATH"

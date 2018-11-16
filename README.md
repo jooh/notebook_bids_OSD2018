@@ -16,6 +16,6 @@ all dependencies.
 For a local install, see environment.yml for the conda environment. You will also need
 to activate some notebook extensions, install one linux package (tree), and one node.js
 package (bids-validator). To see how this is done, consult the Binder build files
-apt-get.txt and postBuild.
+apt.txt and postBuild.
 
 At CBU, `conda activate cbu_nipy_1_00` should work.

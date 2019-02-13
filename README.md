@@ -5,7 +5,7 @@
 [BIDS](http://bids.neuroimaging.io/) presentation at 2018 CBU Open Science Day.
 
 This notebook first introduces BIDS, including basic interfacing with BIDS data using
-pybids. The second half of the presentation is an interactive tutorial of dcm2bids, a
+pybids. The second half of the presentation is an interactive tutorial of [dcm2bids](https://github.com/jooh/Dcm2Bids), a
 tool for converting MRI DICOM data to the BIDS format.
 
 # install requirements

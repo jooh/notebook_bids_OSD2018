@@ -18,4 +18,4 @@ to activate some notebook extensions, install one linux package (tree), and one 
 package (bids-validator). To see how this is done, consult the Binder build files
 apt.txt and postBuild.
 
-At CBU, `conda activate cbu_nipy_1_00` should work.
+At CBU, `conda activate neuroconda_1_4` should work.
